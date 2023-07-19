@@ -1,4 +1,4 @@
-# Project Readme - React App with Server Data
+# React Users Management App 
 
 ## Project Description
 
